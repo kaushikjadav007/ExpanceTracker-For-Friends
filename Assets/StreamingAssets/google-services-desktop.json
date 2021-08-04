@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530880995997",
+    "project_id": "k-143-345cd",
+    "firebase_url":"https://k-143-345cd-default-rtdb.firebaseio.com/",
+    "storage_bucket": "k-143-345cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530880995997:android:f851bfce28bee4d66a6a74",
+        "android_client_info": {
+          "package_name": "com.homeexpance.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530880995997-gormuichcsiirvl1tt8meighg239r4ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlJTAyXjADIsxBOqyQkJkSwuwqjKbU5Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530880995997-gormuichcsiirvl1tt8meighg239r4ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
