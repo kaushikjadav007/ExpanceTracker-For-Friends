@@ -94,6 +94,14 @@ public class ServerManager : MonoBehaviour
         yield return null;
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Delete))
+        {
+            PlayerPrefs.DeleteAll();
+        }
+    }
+
     public void _SelectType()
     {
         m_select_options.SetActive(true);

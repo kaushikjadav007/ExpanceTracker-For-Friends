@@ -3139,7 +3139,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 115.75
+  m_fontSize: 138.1
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4660,7 +4660,7 @@ MonoBehaviour:
   m_p_data:
     m_expance_data: []
   m_json: 
-  m_test: 1
+  m_test: 0
 --- !u!4 &1159459527
 Transform:
   m_ObjectHideFlags: 0
